@@ -8,7 +8,7 @@
 - Bookmark this [link](https://reacttraining.com/react-router/web/api/), which include the API-description for React Router V4, which we will be using
 
 ### Exercises
-- [Exercises React Router](https://docs.google.com/document/d/1HS5x4viPsdFU0DxK-mIDTkaOk5v3NmJSig-JCOTmqQg/edit?usp=sharing) 
+- [Exercises React Router](https://docs.google.com/document/d/1l6HSGrYtJ87bViHegCAQSM5DoIby7Kck7cC5apShX5U/edit?usp=sharing) 
 
 
 
@@ -18,8 +18,7 @@
 
 - [JSON Web Tokens (first 24 min)](https://www.youtube.com/watch?v=oXxbB5kv9OA)
 - [Passords hashing with bcrypt](https://www.youtube.com/watch?v=O6cmuiTBZVs)
-- Skim this article about [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-
+- Skim this article [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) (one more time)
 
 ### Exercises
 - [Exercises Security](https://docs.google.com/document/d/1hC21WzWjNnQLy0eoLJB-HFRmVYpj-KtprHfmgwlyx50/edit?usp=sharing) 
