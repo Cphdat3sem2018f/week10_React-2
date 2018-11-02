@@ -18,6 +18,7 @@
 
 - [JSON Web Tokens (first 24 min)](https://www.youtube.com/watch?v=oXxbB5kv9OA)
 - [Passords hashing with bcrypt](https://www.youtube.com/watch?v=O6cmuiTBZVs)
+- [Read 16.1 - Securing the Server](https://jersey.github.io/documentation/latest/security.html)
 - Skim this article [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) (one more time)
 
 ### Exercises
