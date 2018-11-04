@@ -10,7 +10,7 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 - Bookmark this [link](https://reacttraining.com/react-router/web/api/), which include the API-description for React Router V4, which we will be using
 
 ### Exercises
-- [Exercises React Router](https://docs.google.com/document/d/1HS5x4viPsdFU0DxK-mIDTkaOk5v3NmJSig-JCOTmqQg/edit?usp=sharing) 
+- [Exercises React Router TBD]() 
 
 
 
