@@ -31,6 +31,9 @@ For this period you can use whatever **IDE/editor** you like. If you prefer the 
 
 ## Day 3 Wednesday - React Native
 
+### Snippet-file
+[code-snippets](https://docs.google.com/document/d/1NYl8v1M05yXElnNwNfcy1zdpvhXU5zx2wS65LZ4WtIk/edit?usp=sharing)
+
 ### Read/watch/do before this lesson
 Make sure to watch these videos before todays lecture:
 - [Comparing (some) of the alternatives technologies for "crossplatform" development](https://www.youtube.com/watch?v=bnYJRYFsrSw)
