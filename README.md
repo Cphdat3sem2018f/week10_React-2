@@ -61,4 +61,4 @@ For the rest of the day you should do one of the following:
 - Complete whatever missing React Exercises you might have. If you have any questions or exercises you would like to discuss, there will be time for that :-)
 
 ## Friday - exercises
-[SP7]()
+[Study Point Exercises](https://docs.google.com/document/d/1YmQ9T4qwbrGDYpPazSgN9lH792UVZZRqccTpP_vY7_o/edit?usp=sharing)
