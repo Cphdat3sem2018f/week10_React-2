@@ -62,3 +62,8 @@ For the rest of the day you should do one of the following:
 
 ## Friday - exercises
 [Study Point Exercises](https://docs.google.com/document/d/1YmQ9T4qwbrGDYpPazSgN9lH792UVZZRqccTpP_vY7_o/edit?usp=sharing)
+
+# Week-3  (CA-3)
+
+[CA-3](https://docs.google.com/document/d/1GZvVK-dGHjyP30BULhtRz9EFYd9MOzdtChoV6X_mRnQ/edit?usp=sharing)
+
