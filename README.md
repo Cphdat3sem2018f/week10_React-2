@@ -57,7 +57,7 @@ Complete the [exercises](https://docs.google.com/document/d/1InOKIB8hLsjKCtjrqkg
 We will do (or start on)  "Apps with a backend" together. This requires that you have installed [ngrok](https://ngrok.com/) before the lesson - A super cool tool that will allow you to open servers running locally on your laptop to the "whole world".
 
 For the rest of the day you should do one of the following:
-- Do the "All the fun" exercise if you have come to love React Native and have the time
+- Do the "All the fun" exercise if you have come to "love" React Native and have the time
 - Complete whatever missing React Exercises you might have. If you have any questions or exercises you would like to discuss, there will be time for that :-)
 
 ## Friday - exercises
