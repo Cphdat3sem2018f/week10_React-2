@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text, View, Platform, TouchableOpacity, StyleSheet, Button, WebView } from 'react-native';
 import { Constants, WebBrowser } from "expo";
-import { createStackNavigator  } from 'react-navigation';
+import { createStackNavigator,createAppContainer  } from 'react-navigation';
 
 //Todo: Refactor into a seperate file (Basics.js), import and complete the exercise
 class Basics extends React.Component {
@@ -72,7 +72,7 @@ class HomeScreen extends React.Component {
   }
 }
 
-export default App = () => <RouteStack style={{ marginTop: Platform.OS === 'ios' ? 0 : Constants.statusBarHeight / 2 }} />
+//export default App = () => <RouteStack style={{ marginTop: Platform.OS === 'ios' ? 0 : Constants.statusBarHeight / 2 }} />
 
 const RouteStack = createStackNavigator({
   Home: { screen: HomeScreen },
@@ -80,6 +80,9 @@ const RouteStack = createStackNavigator({
   props: { screen: Props },
   web: { screen: WhatToDo },
 });
+
+const App= createAppContainer(RouteStack);
+export default App;
 
 const styles = StyleSheet.create({
   button: {
